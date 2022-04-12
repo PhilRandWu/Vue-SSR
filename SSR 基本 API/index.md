@@ -3,7 +3,7 @@
  * @Author: PhilRandWu
  * @Github: https://github/PhilRandWu
  * @Date: 2022-04-12 13:37:09
- * @LastEditTime: 2022-04-12 13:38:45
+ * @LastEditTime: 2022-04-12 13:40:33
  * @LastEditors: PhilRandWu
 -->
 # SSR 基本API
@@ -90,3 +90,7 @@ app.listen('5005', () => {
 })
 
 ```
+
+
+**1. 页面失活！**
+**2. 开发，组件怎么写**

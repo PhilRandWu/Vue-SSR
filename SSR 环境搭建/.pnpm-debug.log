@@ -1,0 +1,23 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 info pnpm": {
+    "err": {
+      "name": "Error",
+      "message": "not found: webpack",
+      "code": "ENOENT",
+      "stack": "Error: not found: webpack\n    at getNotFoundError (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:41595:51)\n    at Function.whichSync [as sync] (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:41672:13)\n    at getCommandAbsolutePathSync (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:43237:44)\n    at default_1 (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:43246:32)\n    at C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:178233:39"
+    }
+  },
+  "2 error pnpm": {
+    "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+    "prefix": "F:\\web前端\\学习笔记\\duyi\\Vue SSR\\SSR 环境搭建",
+    "err": {
+      "name": "pnpm",
+      "message": "not found: webpack",
+      "code": "ERR_PNPM_RECURSIVE_EXEC_FIRST_FAIL",
+      "stack": "Error: not found: webpack\n    at getNotFoundError (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:41595:51)\n    at Function.whichSync [as sync] (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:41672:13)\n    at getCommandAbsolutePathSync (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:43237:44)\n    at default_1 (C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:43246:32)\n    at C:\\Users\\THUNDEROBOT\\AppData\\Roaming\\npm\\pnpm-global\\5\\node_modules\\.pnpm\\registry.npmmirror.com+pnpm@6.32.6\\node_modules\\pnpm\\dist\\pnpm.cjs:178233:39"
+    }
+  }
+}
