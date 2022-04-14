@@ -1,8 +1,15 @@
-<!--
- * @Description: 
- * @Author: PhilRandWu
- * @Github: https://github/PhilRandWu
- * @Date: 2022-04-12 14:01:48
- * @LastEditTime: 2022-04-12 14:01:48
- * @LastEditors: PhilRandWu
--->
+<template>
+  <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
+  <HelloWorld msg="Hello Vue 3.0 + Vite" />
+</template>
+
+<script>
+import HelloWorld from './components/HelloWorld.vue'
+
+export default {
+  name: 'App',
+  components: {
+    HelloWorld
+  }
+}
+</script>
